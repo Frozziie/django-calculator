@@ -1,13 +1,9 @@
 # Simple Calculator
+Calculator application using HTML, CSS, JS, Django.
 
 ## Screenshots
 <img src="./screenshots/calculator.png" width="200">
 
-## Functionality
-- Sum
-- Substraction
-- Multiplication
-- Division
 
 ### Clone the project
 
@@ -25,7 +21,7 @@ pip install virtualenv
 virtualenv <name>
 
 3. Activate
-<name>\Scripts\activate (Windows)
+<name>\Scripts\activate (windows)
 
 4. Dependencies
 pip install -r requirements.txt
