@@ -1,0 +1,13 @@
+table {
+    margin-right:auto;
+}
+textarea {
+    display: block;
+    margin-bottom: 8px;
+    margin-right:auto;
+    border-radius: 5px;
+}
+button {
+    height: 56px;
+    width: 56px;
+}
